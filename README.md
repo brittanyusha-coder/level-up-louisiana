@@ -1,2 +1,2 @@
-# level-up-louisiana
+# Level-Up-Louisiana
 Official website for Level Up Louisiana Division 
